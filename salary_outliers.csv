@@ -1,0 +1,159 @@
+work_year,job_title,job_category,salary_currency,salary,salary_in_usd,employee_residence,experience_level,employment_type,work_setting,company_location,company_size
+2023,Machine Learning Engineer,Machine Learning and AI,USD,319000,319000,United States,Senior,Full-time,Remote,United States,M
+2023,ML Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,ML Engineer,Machine Learning and AI,USD,336300,336300,United States,Senior,Full-time,In-person,United States,M
+2023,Research Scientist,Data Science and Research,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,324000,324000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Scientist,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,333500,333500,United States,Senior,Full-time,In-person,United States,M
+2023,Data Architect,Data Architecture and Modeling,USD,354200,354200,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,328400,328400,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,USD,329700,329700,United States,Senior,Full-time,In-person,United States,M
+2023,Data Architect,Data Architecture and Modeling,USD,310000,310000,United States,Senior,Full-time,Remote,United States,M
+2023,AI Engineer,Machine Learning and AI,USD,372000,372000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,324000,324000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Engineer,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,309000,309000,United States,Senior,Full-time,In-person,United States,M
+2023,ML Engineer,Machine Learning and AI,USD,324000,324000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Analytics Engineer,Leadership and Management,GBP,300000,369120,United Kingdom,Mid-level,Full-time,In-person,United Kingdom,M
+2023,Data Scientist,Data Science and Research,USD,316000,316000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Scientist,Data Science and Research,USD,405000,405000,United States,Mid-level,Full-time,In-person,United States,L
+2023,Director of Data Science,Data Science and Research,USD,353200,353200,United States,Executive,Full-time,In-person,United States,M
+2023,AI Engineer,Machine Learning and AI,USD,350000,350000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Engineer,Data Engineering,USD,385000,385000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Engineer,Data Science and Research,USD,385000,385000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Engineer,Data Science and Research,USD,310000,310000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Engineer,Data Engineering,USD,385000,385000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Engineer,Data Engineering,USD,310000,310000,United States,Senior,Full-time,In-person,United States,M
+2023,AI Engineer,Machine Learning and AI,GBP,300000,369120,United Kingdom,Mid-level,Full-time,In-person,United Kingdom,M
+2023,Data Analyst,Data Analysis,GBP,300000,369120,United Kingdom,Mid-level,Full-time,In-person,United Kingdom,M
+2023,AI Engineer,Machine Learning and AI,USD,360000,360000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,330000,330000,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,USD,324000,324000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,316000,316000,United States,Senior,Full-time,In-person,United States,M
+2023,Head of Machine Learning,Machine Learning and AI,USD,330000,330000,United States,Executive,Full-time,In-person,United States,M
+2023,Head of Data,Leadership and Management,USD,329500,329500,United States,Executive,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,340000,340000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,309000,309000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Infrastructure Engineer,Data Engineering,USD,385000,385000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,330000,330000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,328133,328133,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,309000,309000,United States,Senior,Full-time,In-person,United States,M
+2023,Director of Data Science,Data Science and Research,USD,375500,375500,United States,Executive,Full-time,Remote,United States,M
+2023,Applied Scientist,Data Science and Research,USD,309400,309400,United States,Senior,Full-time,In-person,United States,L
+2023,ML Engineer,Machine Learning and AI,USD,385000,385000,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,330000,330000,United States,Senior,Full-time,In-person,United States,M
+2023,Head of Data,Leadership and Management,USD,329500,329500,United States,Executive,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,324000,324000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,309000,309000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Engineer,Data Engineering,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,AI Architect,Machine Learning and AI,USD,330000,330000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Scientist,Machine Learning and AI,USD,325000,325000,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,310270,310270,United States,Senior,Full-time,In-person,United States,M
+2023,Data Lead,Leadership and Management,USD,350000,350000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,315300,315300,United States,Senior,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,310270,310270,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,309000,309000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,AI Architect,Machine Learning and AI,USD,330000,330000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,324000,324000,United States,Senior,Full-time,In-person,United States,M
+2023,ML Engineer,Machine Learning and AI,USD,383910,383910,United States,Senior,Full-time,In-person,United States,M
+2023,ML Engineer,Machine Learning and AI,USD,315850,315850,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,392000,392000,United States,Senior,Full-time,In-person,United States,M
+2023,AI Architect,Machine Learning and AI,USD,330000,330000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,310270,310270,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Deep Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Data Engineer,Data Engineering,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,316000,316000,United States,Senior,Full-time,In-person,United States,M
+2023,ML Engineer,Machine Learning and AI,USD,365630,365630,United States,Senior,Full-time,In-person,United States,M
+2023,ML Engineer,Machine Learning and AI,USD,315850,315850,United States,Senior,Full-time,In-person,United States,M
+2023,Applied Scientist,Data Science and Research,USD,309400,309400,United States,Senior,Full-time,In-person,United States,L
+2023,Machine Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Research Scientist,Data Science and Research,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,AI Architect,Machine Learning and AI,USD,330000,330000,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,310270,310270,United States,Senior,Full-time,In-person,United States,M
+2023,Data Engineer,Data Engineering,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Deep Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,310270,310270,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Head of Data Science,Data Science and Research,USD,330000,330000,United States,Executive,Full-time,In-person,United States,M
+2023,Applied Scientist,Data Science and Research,USD,309400,309400,United States,Senior,Full-time,In-person,United States,L
+2023,Machine Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,359170,359170,United States,Senior,Full-time,In-person,United States,M
+2023,Research Engineer,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Scientist,Data Science and Research,USD,345000,345000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Scientist,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Applied Scientist,Data Science and Research,USD,309400,309400,United States,Senior,Full-time,In-person,United States,L
+2023,Research Scientist,Data Science and Research,USD,374000,374000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Engineer,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,331640,331640,United States,Senior,Full-time,In-person,United States,M
+2023,Applied Scientist,Data Science and Research,USD,309400,309400,United States,Senior,Full-time,In-person,United States,L
+2023,Analytics Engineering Manager,Leadership and Management,GBP,325000,399880,United Kingdom,Senior,Full-time,Hybrid,United Kingdom,L
+2023,Machine Learning Engineer,Machine Learning and AI,USD,317070,317070,United States,Senior,Full-time,In-person,United States,M
+2023,Data Engineer,Data Engineering,USD,333500,333500,United States,Executive,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,311000,311000,United States,Senior,Full-time,In-person,United States,M
+2023,Head of Data,Leadership and Management,USD,329500,329500,United States,Executive,Full-time,In-person,United States,M
+2023,Data Science Manager,Data Science and Research,USD,328000,328000,United States,Senior,Full-time,In-person,United States,M
+2023,Finance Data Analyst,Data Analysis,EUR,300000,323905,France,Senior,Contract,Remote,United States,M
+2023,Director of Data Science,Data Science and Research,USD,336400,336400,United States,Executive,Full-time,In-person,United States,M
+2023,Research Engineer,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Scientist,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Analytics Engineer,Leadership and Management,GBP,350000,430640,United Kingdom,Mid-level,Full-time,In-person,United Kingdom,M
+2023,Computer Vision Engineer,Machine Learning and AI,USD,342810,342810,United States,Senior,Full-time,In-person,United States,M
+2023,Applied Scientist,Data Science and Research,USD,309400,309400,United States,Senior,Full-time,In-person,United States,L
+2023,Machine Learning Engineer,Machine Learning and AI,USD,342300,342300,United States,Senior,Full-time,In-person,United States,L
+2023,Machine Learning Engineer,Machine Learning and AI,USD,318300,318300,United States,Senior,Full-time,Remote,United States,M
+2023,Applied Scientist,Data Science and Research,USD,309400,309400,United States,Senior,Full-time,In-person,United States,L
+2023,Head of Data,Leadership and Management,USD,329500,329500,United States,Executive,Full-time,In-person,United States,M
+2023,Director of Data Science,Data Science and Research,USD,353200,353200,United States,Executive,Full-time,In-person,United States,M
+2023,Data Scientist,Data Science and Research,USD,317070,317070,United States,Senior,Full-time,In-person,United States,M
+2023,Data Architect,Data Architecture and Modeling,USD,376080,376080,United States,Senior,Full-time,Remote,United States,M
+2023,Research Scientist,Data Science and Research,USD,340000,340000,United States,Mid-level,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,USD,310000,310000,United States,Executive,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,USD,310000,310000,United States,Executive,Full-time,Remote,United States,M
+2023,Data Scientist,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,323300,323300,United States,Senior,Full-time,In-person,United States,M
+2023,Data Engineer,Data Engineering,USD,310000,310000,United States,Executive,Full-time,Remote,United States,M
+2022,Machine Learning Software Engineer,Machine Learning and AI,USD,375000,375000,United States,Senior,Full-time,Remote,United States,M
+2023,Machine Learning Engineer,Machine Learning and AI,USD,318300,318300,United States,Senior,Full-time,Remote,United States,M
+2023,Data Analyst,Data Analysis,USD,385000,385000,United States,Senior,Full-time,In-person,United States,M
+2023,Research Scientist,Data Science and Research,USD,370000,370000,United States,Senior,Full-time,In-person,United States,M
+2023,Head of Data Science,Data Science and Research,USD,314100,314100,United States,Executive,Full-time,In-person,United States,M
+2023,Applied Scientist,Data Science and Research,USD,350000,350000,United States,Senior,Full-time,In-person,United States,L
+2023,Data Engineer,Data Engineering,USD,310000,310000,United States,Executive,Full-time,Remote,United States,M
+2023,Data Engineer,Data Engineering,USD,310000,310000,United States,Senior,Full-time,In-person,United States,M
+2022,Data Engineer,Data Engineering,USD,310000,310000,United States,Executive,Full-time,Remote,United States,M
+2022,Data Analyst,Data Analysis,GBP,350000,430967,United Kingdom,Mid-level,Full-time,In-person,United Kingdom,M
+2022,Data Engineer,Data Engineering,USD,310000,310000,United States,Executive,Full-time,Remote,United States,M
+2022,Data Science Tech Lead,Data Science and Research,USD,375000,375000,United States,Senior,Full-time,Hybrid,United States,L
+2022,Data Scientist,Data Science and Research,USD,350000,350000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Engineer,Data Engineering,USD,315000,315000,United States,Senior,Full-time,Remote,United States,M
+2022,Data Architect,Data Architecture and Modeling,USD,345600,345600,United States,Senior,Full-time,In-person,United States,M
+2022,Data Engineer,Data Engineering,USD,324000,324000,United States,Executive,Full-time,Remote,United States,M
+2022,Data Analytics Lead,Leadership and Management,USD,405000,405000,United States,Senior,Full-time,Remote,United States,L
+2022,Applied Data Scientist,Data Science and Research,USD,380000,380000,United States,Senior,Full-time,Remote,United States,L
+2020,Research Scientist,Data Science and Research,USD,450000,450000,United States,Mid-level,Full-time,In-person,United States,M
+2021,Principal Data Scientist,Data Science and Research,USD,416000,416000,United States,Executive,Contract,Remote,United States,S
+2020,Director of Data Science,Data Science and Research,USD,325000,325000,United States,Executive,Full-time,Remote,United States,L
+2021,Applied Machine Learning Scientist,Machine Learning and AI,USD,423000,423000,United States,Mid-level,Full-time,Hybrid,United States,L
+2020,Data Scientist,Data Science and Research,USD,412000,412000,United States,Senior,Full-time,Remote,United States,L
